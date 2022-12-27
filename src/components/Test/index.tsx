@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 const Test: React.FC = () => {
-  return <div>123</div>;
+  return <div>test</div>;
 };
 
 export default Test;
