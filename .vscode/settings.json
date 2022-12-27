@@ -22,19 +22,22 @@
       "text": "TODO:",
       "color": "white",
       "border": "1px solid white",
-      "backgroundColor": "orange"
+      "backgroundColor": "#2E8B57",
+      "borderRadius": "5px",
     },
     {
       "text": "NOTE:",
       "color": "white",
       "border": "1px solid white",
-      "backgroundColor": "purple"
+      "backgroundColor": "#C71585",
+      "borderRadius": "5px",
     },
     {
       "text": "BUG:",
       "color": "white",
       "border": "1px solid white",
-      "backgroundColor": "red"
+      "backgroundColor": "#CD5C5C",
+      "borderRadius": "5px",
     }
   ],
 }
